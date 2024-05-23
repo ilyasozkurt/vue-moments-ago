@@ -32,14 +32,19 @@ export default {
         fr: {
           few: "il y a",
           postfix: "s",
-        }
+        },
+        tr: {
+          few: "birkaç",
+          postfix: "",
+        },
       },
       epochs: {
         en: ["year", "month", "day", "hour", "minute"],
         kr: ["년", "달", "일", "시간", "분"],
         jp: ["年", "月", "日", "時", "分"],
         he: ["שנה", "חודש", "יום", "שעה", "דקה"],
-        fr: ["an", "mois", "jour", "heure", "minute"]
+        fr: ["an", "mois", "jour", "heure", "minute"],
+        tr: ["yıl", "ay", "gün", "saat", "dakika"],
       },
       year: 31536000,
       month: 2592000,

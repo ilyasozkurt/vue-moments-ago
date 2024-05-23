@@ -58,6 +58,11 @@ Result:
 
 We support English, Korean and Japanese. y Language options are available. default value is "en".
 
-```
-en kr jp
-```
+| Language Code | Language Name |
+|---------------|---------------|
+| en            | English       |
+| kr            | Korean        |
+| jp            | Japanese      |
+| he            | Hebrew        |
+| fr            | French        |
+| tr            | Turkish       |
